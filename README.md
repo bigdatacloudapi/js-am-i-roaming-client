@@ -1,16 +1,16 @@
 # BigDataCloud Free Am-I-Roaming API Client
 
 
-A Javascript client for detecting whether a frontend user is currently roaming [BigDataCloud](https://www.bigdatacloud.net)
+A Javascript client for detecting whether a frontend user is currently roaming [BigDataCloud](https://www.bigdatacloud.com)
 This client works without any Javascript dependencies and has no API key or account requirement... Simply load it up and you're ready check if your frontend users are roaming.
 
-For more information about this API and how it works, [please click here.](https://www.bigdatacloud.com/client-info-apis/free-am-i-roaming-api) 
+For more information about this API and how it works, [please click here.](https://www.bigdatacloud.com/docs/api/free-am-i-roaming-api) 
 
 
 ## Documentation
 
 Documentation specific to this Free API Client is detailed below.
-For more information on other available APIs, please visit our [API area](https://www.bigdatacloud.net/ip-geolocation-apis).
+For more information on other available APIs, please visit our [API area](https://www.bigdatacloud.com/docs).
 
 
 
